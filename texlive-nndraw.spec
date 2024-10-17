@@ -3,7 +3,7 @@ Version:	59674
 Release:	2
 Summary:	Draw neural networks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nndraw
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nndraw
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nndraw.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nndraw.doc.r%{version}.tar.xz
